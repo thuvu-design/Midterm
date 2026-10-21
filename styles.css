@@ -1,0 +1,22 @@
+*{
+    font-family: "Libre Caslon Condensed", serif;
+}
+
+h2,h3 {
+    font-family:"IBM Plex Sans", sans-serif;
+    
+}
+
+li {
+    font-weight: bold;
+}
+
+
+.small {
+    font-size: .8em;
+    color: rgba(0, 0, 0, 0.751);
+}
+
+img {
+    max-width: 55%;
+}
